@@ -47,7 +47,7 @@ Una calculadora web moderna e interactiva construida con HTML, CSS y JavaScript.
 
 ### Opción 2: Clonar desde GitHub
 ```bash
-git clone https://github.com/tu-usuario/calculadora-javascript.git
+git clone https://github.com/UnPendejoHola/calculadora-javascript.git
 cd calculadora-javascript
 ```
 
