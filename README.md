@@ -47,8 +47,8 @@ Una calculadora web moderna e interactiva construida con HTML, CSS y JavaScript.
 
 ### Opción 2: Clonar desde GitHub
 ```bash
-git clone https://github.com/UnPendejoHola/calculadora-javascript.git
-cd calculadora-javascript
+git clone https://github.com/UnPendejoHola/calculadora-js.git
+cd calculadora-js
 ```
 
 Luego, abre `index.html` en tu navegador.
@@ -124,6 +124,7 @@ Las contribuciones son bienvenidas. Si deseas mejorar esta calculadora:
 Si tienes preguntas o sugerencias, no dudes en contactarme:
 - Email: zpanochita@gmail.com
 - GitHub: [UnPendejoHola](https://github.com/UnPendejoHola)
+- Discord: [unpendejo3](https://discord.com/users/1046488706078482505)
 
 ---
 
